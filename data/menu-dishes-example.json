@@ -1,0 +1,30 @@
+[
+  {
+    "id": "0596b76d-33fd-4abc-bac1-cc6ef69213d4",
+    "menu_id": "0296d2d4-b0b6-4c56-95f7-587b661bbb6b",
+    "dish_id": "3e4e1b39-135a-4774-b039-32dcca6291f0",
+    "dish": {
+      "name": "Trứng đúc thịt",
+      "price": 38000,
+      "position": 0,
+      "image_url": "https://lzoebcaddhgfbypfbacc.supabase.co/storage/v1/object/public/dish-images/28022bdd-25ab-41cb-a34b-79a368a46edb/citjgebqh7.jpg",
+      "category_id": "3069269f-cff0-4233-89c9-2dca0b26f338",
+      "description": "",
+      "is_available": true
+    }
+  },
+  {
+    "id": "42fb295a-5d32-4c6f-b72d-c38586c61979",
+    "menu_id": "0296d2d4-b0b6-4c56-95f7-587b661bbb6b",
+    "dish_id": "4006fb24-29d2-4f30-98dc-99edae849676",
+    "dish": {
+      "name": "Cà tím cuộn thịt chiên",
+      "price": 45000,
+      "position": 0,
+      "image_url": "https://lzoebcaddhgfbypfbacc.supabase.co/storage/v1/object/public/dish-images/28022bdd-25ab-41cb-a34b-79a368a46edb/9kiirxtovjv.jpg",
+      "category_id": "3069269f-cff0-4233-89c9-2dca0b26f338",
+      "description": "",
+      "is_available": true
+    }
+  }
+]
